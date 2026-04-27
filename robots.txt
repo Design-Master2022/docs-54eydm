@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7f2nyi.date-me.pro/sitemap.xml
